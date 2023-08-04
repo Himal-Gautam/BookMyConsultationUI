@@ -1,0 +1,16 @@
+.body-text {
+    padding: 18px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.app-card {
+    text-align: left;
+    margin: 15px;
+    padding: 20px;
+    cursor: pointer;
+}
+
+.lrg-txt {
+    min-height: 70px;
+}

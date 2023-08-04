@@ -1,0 +1,64 @@
+.app-header {
+    height: 70px;
+    padding: 11px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    box-sizing: border-box;
+    background-color: purple;
+}
+
+.app-logo {
+    background-color: #ff7f7f;
+    height: 35px;
+    float: left;
+    margin-right: 11px;
+}
+
+.app-name {
+    color: white;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.float-right {
+    margin-left: auto;
+}
+
+.modal-header {
+    height: 70px;
+    padding: 11px !important;
+    background-color: purple;
+    color: white;
+}
+
+.modal-action-button {
+    margin-top: 34px !important;
+}
+
+.button-message {
+    display: inline-block;
+    padding: 16px;
+    background-color: #42414d;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    margin: 4px;
+    font-size: 11px;
+    text-align: center;
+    position: relative;
+    left: -20px;
+}
+
+.select-width {
+    width: 120px;
+}
+
+.book-appointment-btn {
+    margin-top: 24px !important;
+}
+
+.icon-header {
+    display: flex;
+    align-items: center;
+}
